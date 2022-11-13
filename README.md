@@ -58,3 +58,9 @@ Update all certificate for me learning courese online
 1. [Excel Fundamentals for Data Analysis](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization/Excel%20Fundamentals%20for%20Data%20Analysis.pdf)
 2. [Data Visualization in Excel](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization/Data%20Visualization%20in%20Excel.pdf)
 3. [Excel Power Tools for Data Analysis](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization/Excel%20Power%20Tools%20for%20Data%20Analysis.pdf)
+
+### [Stanford University Machine Learning Specialization](https://github.com/sprasaming/Certificates/blob/main/Machine%20Learning%20Specialization.pdf)
+
+1. [Supervised Machine Learning Regression and Classification](https://github.com/sprasaming/Certificates/blob/main/Supervised%20Machine%20Learning/Supervised%20Machine%20Learning%20Regression%20and%20Classification.pdf)
+2. [Advanced Learning Algorithms](https://github.com/sprasaming/Certificates/blob/main/Supervised%20Machine%20Learning/Advanced%20Learning%20Algorithms.pdf)
+3. [Unsupervised Learning Recommenders Reinforcement Learning](https://github.com/sprasaming/Certificates/blob/main/Supervised%20Machine%20Learning/Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning.pdf)
