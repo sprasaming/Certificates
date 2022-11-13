@@ -24,3 +24,12 @@ Update all certificate for me learning courese online
 5. [Assess for Success:Marketing Analytics and Measurement](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Foundations%20of%20Digital%20Marketing%20and%20E-commerce/Coursera%20Assess%20for%20Success%20Marketing%20Analytics%20and.pdf)
 6. [Make the Sale: Build,Launch, and Manage E-commerce Stores](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Foundations%20of%20Digital%20Marketing%20and%20E-commerce/Coursera%20Foundations%20of%20Digital%20Marketing%20and%20E-commerce.pdf)
 7. [Satisfaction Guaranteed:Develop Customer Loyalty Online](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Foundations%20of%20Digital%20Marketing%20and%20E-commerce/Coursera%20Satisfaction%20Guaranteed%20Develop%20Customer%20Loyalty.pdf)
+
+### [UCDAVIS Data Visualization with Tableau](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Data%20Visualization%20with%20Tableau.pdf)
+
+1. [Fundamentals of Visualization with Tableau](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Data%20Visualization%20with%20Tableau/Coursera%20Fundamentals%20of%20Visualization%20with%20Tab.pdf)
+2. [Essential Design Principles for Tableau](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Data%20Visualization%20with%20Tableau/Coursera%20Essential%20Design%20Principles%20for%20Tableau.pdf)
+3. [Visual Analytics with Tableau](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Foundations%20of%20Digital%20Marketing%20and%20E-commerce/Coursera%20From%20Likes%20to%20Leads%20Interact%20with%20Customers.pdf)
+4. [Creating Dashboards and Storytelling with Tableau](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Data%20Visualization%20with%20Tableau/Coursera%20Data%20Visualization%20with%20Tableau%20.pdf)
+5. [Data Visualization with Tableau Project](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Data%20Visualization%20with%20Tableau/Coursera%20Visual%20Analytics%20with%20Tableau.pdf)
+
