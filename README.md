@@ -67,9 +67,9 @@ Update all certificate for me learning courese online
 
 ## Data Rockie
 
-1. [Certified Professional Data Analyst](https://badgr.com/public/assertions/MmhHn9D2T0WiWERshRO0fA)
+[Certified Professional Data Analyst](https://badgr.com/public/assertions/MmhHn9D2T0WiWERshRO0fA)
 <ol>
-  6-month program, 100 hours <br>
+  6-month program, 100 hours Successfully passed the final exam of Data Science Bootcamp (6-month program, 100 hours) by DataRockie<br>
   <li>Spreadsheets</li>
   <li>SQL databases</li>
   <li>R Programming</li>
@@ -81,7 +81,7 @@ Update all certificate for me learning courese online
   <li>Tableau and Data Studio</li>
 </ol>
 
-2. [Hello World Bootcamp](https://badgr.com/public/assertions/k2W-mQZMRXqr1R9xhY2DVQ)
+[Hello World Bootcamp](https://badgr.com/public/assertions/k2W-mQZMRXqr1R9xhY2DVQ)
 <ol>
   The 10-hour beginner program includes 6 live classes covering data science foundation <br>
   <li>Google Sheets</li>
@@ -91,4 +91,4 @@ Update all certificate for me learning courese online
   <li>R programming</li>
 </ol>
 
-3. [Pandas Foundation](https://drive.google.com/file/d/16iNnXR3aZkKRmQfpuD3wwGkqkk99Myzm/view)
+[Pandas Foundation](https://drive.google.com/file/d/16iNnXR3aZkKRmQfpuD3wwGkqkk99Myzm/view)
