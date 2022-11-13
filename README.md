@@ -41,7 +41,7 @@ Update all certificate for me learning courese online
 4. [Introduction to Networking and Storage](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20%20Information%20Technology%20(IT)%20and%20Cloud%20Fundamentals%20Specialization/Coursera%20Introduction%20to%20Networking%20and%20Storage.pdf)
 5. [Introduction to Cybersecurity Essentials](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20%20Information%20Technology%20(IT)%20and%20Cloud%20Fundamentals%20Specialization/Coursera%20Introduction%20to%20Cybersecurity%20Essentials.pdf)
 
-### [Coursera IBM Data Analyst Professional Certificate](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst.pdf)
+### [IBM Data Analyst Professional Certificate](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst.pdf)
 
 1. [Introduction to Data Analytics](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Introduction%20to%20Data%20Analytics.pdf)
 2. [Excel Basics for Data Analysis](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Excel%20Basics%20for%20Data%20Analysis.pdf)
