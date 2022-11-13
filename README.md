@@ -2,6 +2,9 @@
 
 Update all certificate for me learning courese online 
 
+Badger : https://www.credly.com/users/sathaporn-prasaming
+
+
 ## Coursera
 
 ### [Google Data Analytics](https://github.com/sprasaming/Certificates/blob/main/Coursera%20Google%20Data%20Analytics.pdf)
