@@ -40,3 +40,15 @@ Update all certificate for me learning courese online
 3. [Introduction to Cloud Computing](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20%20Information%20Technology%20(IT)%20and%20Cloud%20Fundamentals%20Specialization/Coursera%20Introduction%20to%20Cloud%20Computing.pdf)
 4. [Introduction to Networking and Storage](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20%20Information%20Technology%20(IT)%20and%20Cloud%20Fundamentals%20Specialization/Coursera%20Introduction%20to%20Networking%20and%20Storage.pdf)
 5. [Introduction to Cybersecurity Essentials](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20%20Information%20Technology%20(IT)%20and%20Cloud%20Fundamentals%20Specialization/Coursera%20Introduction%20to%20Cybersecurity%20Essentials.pdf)
+
+### [Coursera IBM Data Analyst Professional Certificate](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst.pdf)
+
+1. [Introduction to Data Analytics](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Introduction%20to%20Data%20Analytics.pdf)
+2. [Excel Basics for Data Analysis](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Excel%20Basics%20for%20Data%20Analysis.pdf)
+3. [Data Visualization and Dashboards with Excel and Cognos](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and.pdf)
+4. [Python for Data Science, AI & Development](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
+5. [Python Project for Data Science](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Python%20Project%20for%20Data%20Science.pdf)
+6. [Databases and SQL for Data Science with Python](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)
+7. [Data Analysis with Python](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Data%20Analysis%20with%20Python.pdf)
+8. [Data Visualization with Python](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Data%20Visualization%20with%20Python.pdf)
+9. [IBM Data Analyst Capstone Project](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20IBM%20Data%20Analyst%20Capstone%20Project.pdf)
