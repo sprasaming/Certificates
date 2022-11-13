@@ -64,3 +64,31 @@ Update all certificate for me learning courese online
 1. [Supervised Machine Learning Regression and Classification](https://github.com/sprasaming/Certificates/blob/main/Supervised%20Machine%20Learning/Supervised%20Machine%20Learning%20Regression%20and%20Classification.pdf)
 2. [Advanced Learning Algorithms](https://github.com/sprasaming/Certificates/blob/main/Supervised%20Machine%20Learning/Advanced%20Learning%20Algorithms.pdf)
 3. [Unsupervised Learning Recommenders Reinforcement Learning](https://github.com/sprasaming/Certificates/blob/main/Supervised%20Machine%20Learning/Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning.pdf)
+
+## Data Rockie
+
+1. [Certified Professional Data Analyst](https://badgr.com/public/assertions/MmhHn9D2T0WiWERshRO0fA)
+<ol>
+  6-month program, 100 hours <br>
+  <li>Spreadsheets</li>
+  <li>SQL databases</li>
+  <li>R Programming</li>
+  <li>Python</li>
+  <li>Data Transformation</li>
+  <li>Data Visualization</li>
+  <li>Statistics</li>
+  <li>Intro to Machine Learning</li>
+  <li>Tableau and Data Studio</li>
+</ol>
+
+2. [Hello World Bootcamp](https://badgr.com/public/assertions/k2W-mQZMRXqr1R9xhY2DVQ)
+<ol>
+  The 10-hour beginner program includes 6 live classes covering data science foundation <br>
+  <li>Google Sheets</li>
+  <li>SQLite databases</li>
+  <li>Business foundation</li>
+  <li>Google Data Studio</li>
+  <li>R programming</li>
+</ol>
+
+3. [Pandas Foundation](https://drive.google.com/file/d/16iNnXR3aZkKRmQfpuD3wwGkqkk99Myzm/view)
