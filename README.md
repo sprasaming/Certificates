@@ -52,3 +52,9 @@ Update all certificate for me learning courese online
 7. [Data Analysis with Python](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Data%20Analysis%20with%20Python.pdf)
 8. [Data Visualization with Python](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20Data%20Visualization%20with%20Python.pdf)
 9. [IBM Data Analyst Capstone Project](https://github.com/sprasaming/Certificates/blob/main/Coursera%20IBM%20Data%20Analyst%20Professional%20Certificate/Coursera%20IBM%20Data%20Analyst%20Capstone%20Project.pdf)
+
+### [Macquarie University Excel Skills for Data Analytics andVisualization](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization%20.pdf)
+
+1. [Excel Fundamentals for Data Analysis](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization/Excel%20Fundamentals%20for%20Data%20Analysis.pdf)
+2. [Data Visualization in Excel](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization/Data%20Visualization%20in%20Excel.pdf)
+3. [Excel Power Tools for Data Analysis](https://github.com/sprasaming/Certificates/blob/main/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization/Excel%20Power%20Tools%20for%20Data%20Analysis.pdf)
