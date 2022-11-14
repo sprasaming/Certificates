@@ -100,3 +100,11 @@ Badger : https://www.credly.com/users/sathaporn-prasaming
 
 1. [Data Studio](https://github.com/sprasaming/Certificates/blob/main/Google%20Certificate/Course_Certificate%20Data%20Studio.pdf)
 2. [Tag Manager Fundamentals](https://github.com/sprasaming/Certificates/blob/main/Google%20Certificate/Course_Certificate%20Tag%20Manager%20Fundamentals.pdf)
+
+## Kaggle
+
+1. [Intro to SQL](https://www.kaggle.com/learn/certification/sathapornpra/intro-to-sql)  
+2. [Advanced SQL](https://www.kaggle.com/learn/certification/sathapornpra/advanced-sql)
+3. [Intro to Programming](https://www.kaggle.com/learn/certification/sathapornpra/intro-to-programming)
+4. [Python](https://www.kaggle.com/learn/certification/sathapornpra/python)
+5. [PANDAS](https://www.kaggle.com/learn/certification/sathapornpra/pandas)  
