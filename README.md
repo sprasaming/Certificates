@@ -95,3 +95,8 @@ Badger : https://www.credly.com/users/sathaporn-prasaming
 </ol>
 
 [Pandas Foundation](https://drive.google.com/file/d/16iNnXR3aZkKRmQfpuD3wwGkqkk99Myzm/view)
+
+## Google Analytics Academy
+
+1. [Data Studio](https://github.com/sprasaming/Certificates/blob/main/Google%20Certificate/Course_Certificate%20Data%20Studio.pdf)
+2. [Tag Manager Fundamentals](https://github.com/sprasaming/Certificates/blob/main/Google%20Certificate/Course_Certificate%20Tag%20Manager%20Fundamentals.pdf)
