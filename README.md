@@ -4,6 +4,8 @@ Update all certificate for me learning courese online
 
 Badger : https://www.credly.com/users/sathaporn-prasaming
 
+![](https://komarev.com/ghpvc/?username=sprasaming/Certificates&color=green)
+
 
 ## Coursera
 
